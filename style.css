@@ -1,0 +1,84 @@
+#navbar {
+  background-color: #62760c;
+}
+#card:hover {
+  box-shadow: 5px 6px 6px 2px #e9ecef;
+  transform: scale(1.1);
+}
+#quote {
+  text-align: center;
+  font-family: "Chango", cursive;
+  margin: 3%;
+  padding: 4%;
+  margin-top: 6%;
+}
+#quotebox {
+  background-color: #beca5c;
+  border-radius: 10%;
+}
+#mypic {
+  padding: 3%;
+  padding-top: 4%;
+  border-radius: 100%;
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+#aboutinfo {
+  margin-top: 5.3%;
+  padding: 0.5%;
+  font-family: "Caveat", cursive;
+  color: white;
+}
+#mainheading {
+  text-align: left;
+  font-family: "Acme", sans-serif;
+  margin-bottom: 20%;
+  margin-right: 45%;
+  margin-left: 2%;
+  text-shadow: 3px black;
+  font-size: 4.5rem;
+  font-weight: 600;
+  margin-top: 15%;
+  color: #beca5c;
+}
+#reciepe {
+  font-size: 4rem;
+  color: white;
+  text-align: center;
+  font-family: "Acme";
+  margin-top: 3%;
+}
+#secondmain {
+  font-family: "Acme", sans-serif;
+  text-align: center;
+  margin-bottom: 35%;
+  font-size: 3.8rem;
+  font-stretch: expanded;
+  color: #3d8361;
+  font-weight: 900;
+}
+#salad {
+  padding: 15px;
+  color: black;
+  text-align: center;
+  text-align: justify;
+  font-size: 1.3rem;
+  font-weight: 800;
+}
+#calorie {
+  margin: 4%;
+  margin-top: 15%;
+  margin-left: 1%;
+}
+.calo {
+  margin: 7%;
+  margin-top: 15%;
+  font-size: 3rem;
+  font-family: "Acme";
+  font-weight: 800;
+  color: orangered;
+}
+#formcalo {
+  margin-top: 20%;
+}
